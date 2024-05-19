@@ -21,7 +21,7 @@ Docsify turns one or more Markdown files into a Website, with no build process r
 
 ## Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 
 ## Backers
 
@@ -29,8 +29,3 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 
 ## Contributors
-
-
-## Special Thanks
-
-A preview of Docsify's PR and develop branch is <a href="https://vercel.com/?utm_source=docsifyjs&utm_campaign=oss" target="_blank">Powered by <img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" alt="Vercel" width="133px"></a>
